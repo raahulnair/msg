@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1083438825145",
+    "project_id": "txterap",
+    "storage_bucket": "txterap.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083438825145:android:075528e82d673226eb6568",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD04lCZNfdgtGhrXTxiqXz9CQ5ESAsmXPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083438825145:android:0c967a1a2e62907ceb6568",
+        "android_client_info": {
+          "package_name": "com.example.txtr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD04lCZNfdgtGhrXTxiqXz9CQ5ESAsmXPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
